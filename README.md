@@ -10,6 +10,7 @@ de ver los errores viendo linea por linea pero el resultado era el mismo y no po
 amazon , asi que ya teniendo base decidimos cambiar de mercado, ahora con "MERCADO LIBRE" y nos fue mucho mas    
 accesible hacer el requests (el requerimiento) para poder scrapear.  
 
+https://github.com/JuancaDG/TRABAJO_FINAL_LPII
 
 
 
