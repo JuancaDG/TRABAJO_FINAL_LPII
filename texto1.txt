@@ -1,0 +1,9 @@
+# Url del Repositorio
+url: https://github.com/JuancaDG/TRABAJO_FINAL_LPII
+
+# Integrantes
+- Juan Carlos Díaz Guevara 20170209 ( git hub:JuancaDG )
+- Cruz Chirinos Nilson     20190297 ( git hub:N1LSON   )
+
+# Proyecto 
+Web Scraping de "Mercado libre" 
